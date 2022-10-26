@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="java-mvc-two" />
+        <module name="java-employee-management" />
+        <module name="java-shape-management" />
+        <module name="java-product-management" />
+        <module name="java-heritage" />
+        <module name="java-mvc-one" />
+        <module name="java-exceptions-one" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="java-employee-management" target="17" />
+      <module name="java-exceptions-one" target="17" />
+      <module name="java-heritage" target="17" />
+      <module name="java-mvc-one" target="17" />
+      <module name="java-mvc-two" target="17" />
+      <module name="java-product-management" target="17" />
+      <module name="java-shape-management" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

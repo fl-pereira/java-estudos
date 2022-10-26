@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-employee-management/java-employee-management.iml" filepath="$PROJECT_DIR$/java-employee-management/java-employee-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-estudos.iml" filepath="$PROJECT_DIR$/.idea/java-estudos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-exceptions-one/java-exceptions-one.iml" filepath="$PROJECT_DIR$/java-exceptions-one/java-exceptions-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-heritage/java-heritage.iml" filepath="$PROJECT_DIR$/java-heritage/java-heritage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mvc-one/java-mvc-one.iml" filepath="$PROJECT_DIR$/java-mvc-one/java-mvc-one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mvc-two/java-mvc-two.iml" filepath="$PROJECT_DIR$/java-mvc-two/java-mvc-two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-product-management/java-product-management.iml" filepath="$PROJECT_DIR$/java-product-management/java-product-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-shape-management/java-shape-management.iml" filepath="$PROJECT_DIR$/java-shape-management/java-shape-management.iml" />
+    </modules>
+  </component>
+</project>
