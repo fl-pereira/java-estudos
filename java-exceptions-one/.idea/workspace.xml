@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a209e3d5-af3f-4722-91e8-cdc9c889e8cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/exceptions/DomainException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/entities/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/entities/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/entities/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/entities/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/exceptions/DomainException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/exceptions/DomainException.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/a872975/OneDrive - Atos/Documentos/GitHub/java-estudos/java-exceptions-one"
+    "last_opened_file_path": "C:/Users/a872975/OneDrive - Atos/Documentos/GitHub/java-estudos"
   }
 }]]></component>
   <component name="RunManager">
