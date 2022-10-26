@@ -9,8 +9,6 @@ import entities.enums.Color;
  */
 public class Circle extends Shape {
     
-    private final double PI = 3.14159;
-    
     private double radius;
     
     public Circle(){
@@ -32,6 +30,6 @@ public class Circle extends Shape {
     
     @Override
     public Double area(){
-        return PI * radius * radius;
+        return Math.PI * radius * radius;
     }
 }

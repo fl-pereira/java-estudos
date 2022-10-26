@@ -37,13 +37,11 @@ public class Program {
                 Double width = sc.nextDouble();
                 System.out.print("Height: ");
                 Double height = sc.nextDouble();
-                Rectangle shape = new Rectangle(width,height,color);
-                list.add(shape);
+                list.add(new Rectangle(width,height,color));
             } else {
                 System.out.print("Radius: ");
                 Double radius = sc.nextDouble();
-                Circle shape = new Circle(radius,color);
-                list.add(shape);
+                list.add(new Circle(radius,color));
             }
         }
         
