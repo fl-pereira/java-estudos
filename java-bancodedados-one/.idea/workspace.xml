@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="550b5c86-d4aa-4477-b342-623f018ae248" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/db/DbIntegrityException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +77,8 @@
       <option name="presentableId" value="Default" />
       <updated>1671743301561</updated>
       <workItem from="1671743302890" duration="4521000" />
-      <workItem from="1671788710539" duration="5223000" />
+      <workItem from="1671788710539" duration="5821000" />
+      <workItem from="1671819835481" duration="619000" />
     </task>
     <servers />
   </component>
